@@ -10,3 +10,4 @@
 xhongc/music_tag_web:latest
 ghcr.io/wy580477/musicn-container:latest
 deluan/navidrome
+ajnart/homarr
